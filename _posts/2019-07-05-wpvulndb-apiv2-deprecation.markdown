@@ -16,4 +16,4 @@ If you are currently using APIv2 then you need to migrate to APIv3 before Octobe
 
 If you are already using APIv3, then you do not have to do anything.
 
-Oh, and, welcome to our new blog! :)
+Oh, and welcome to our new blog! :)
