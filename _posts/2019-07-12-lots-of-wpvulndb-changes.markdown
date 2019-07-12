@@ -51,7 +51,7 @@ We believe the changes to displaying the PoC on wpvulndb.com will further protec
 
 [RIPS](https://www.ripstech.com/) is truly an incredible commercial PHP Static Code Analysis tool, which has great support for finding WordPress plugin vulnerabilities. RIPS use their scanner to continuously scan the plugins on the WordPress plugin repository, and assigns each plugin with a code risk based on the scanner's findings. The code risk is supposed to give an idea of how risky some parts of the plugin's code base may be. You can find RIPS' own detailed description [here](https://coderisk.com/about).
 
-Here's an example of our own WPScan WordPress plugin's CodeRisk [https://coderisk.com/wp/plugin/wpscan](https://coderisk.com/wp/plugin/wpscan).
+Here's an example of our own [WPScan WordPress plugin's](https://wordpress.org/plugins/wpscan/) CodeRisk [https://coderisk.com/wp/plugin/wpscan](https://coderisk.com/wp/plugin/wpscan).
 
 Shortly we will be displaying the CodeRisk badge on each of the WPVulnDB's individual plugin's pages.
 
