@@ -73,4 +73,4 @@ We hope these up and coming changes will make our service better for our users a
 
 That's it for now!
 
-Oh, and don't forget that we will be deprecating APIv2 on October 1st 2019!
+Oh, and don't forget that we will be [deprecating APIv2 on October 1st 2019](https://blog.wpscan.org/wpvulndb/2019/07/05/wpvulndb-apiv2-deprecation.html)!
