@@ -28,6 +28,17 @@ So to break it down, these will be the new API usage limits:
 
 We hope that this will allow most users to use our API free of charge, but will also generate some income for the project to be able to make it a little more sustainable for the future, and further increase the amount of data and the quality of data that we provide.
 
+## Latest vulnerabilities API endpoint for paid users
+
+Having API endpoints where users can access the latest WordPress, Plugin and Theme vulnerabilities has been a a feature that has been requested a lot from our users.
+
+Shortly we will be releasing these new API endpoints for paid users:
+
+- https://wpvulndb.com/api/v3/all/latest
+- https://wpvulndb.com/api/v3/wordpresses/latest
+- https://wpvulndb.com/api/v3/plugins/latest
+- https://wpvulndb.com/api/v3/themes/latest
+
 ## Proof of Concepts (PoC)
 
 We try to provide a Proof of Concept (PoC) with our vulnerabilities wherever possible and with time permitting. We wanted to be able to release a vulnerability's advisory, but delay the release of the PoC, to allow users the time to update. The PoC is very useful for those wanting to create Web Application Firewall (WAF) rules, or for researchers to fully understand the vulnerability at a granular level.
