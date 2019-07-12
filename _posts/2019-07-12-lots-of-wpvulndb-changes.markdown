@@ -59,6 +59,8 @@ The badge looks like this:
 
 [![RIPS CodeRisk](https://coderisk.com/wp/plugin/wpscan/badge "RIPS CodeRisk")](https://coderisk.com/wp/plugin/wpscan)
 
+If you are a WordPress plugin developer, RIPS will supply you with their scan reports free of charge, if your plugin is more than one month old and below 200k Lines of Code. This is a very valuable resource for free!
+
 ## Vulnerability Disclosure Policy
 
 We removed our Vulnerability Disclosure Policy text from our website as it wasn't seeing much use, but we are planning on updating our policy and putting it back on the wpvulndb.com website soon, to be transparent on how we handle vulnerabilities within the database.
