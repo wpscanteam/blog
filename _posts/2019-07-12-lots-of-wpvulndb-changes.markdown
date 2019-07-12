@@ -10,7 +10,7 @@ Recently we have been working on some big improvements to WPVulnDB, which you wi
 
 ## Paid API Usage
 
-Important note: This does not affect the WPScan CLI tool.
+Important note: This does not affect the [WPScan CLI tool](https://github.com/wpscanteam/wpscan).
 
 We have been giving away unlimited free access for non-commercial use to the WPVulnDB API since 2014. Initially WPVulnDB was created to mostly serve the WPScan CLI tool, but it has since become a full project in its own right. Our APIs are widely used by many individuals and companies around the world. To give an example of API usage, on Friday 28th June, we served 732,000 API requests. That's 8.5 per second, every second, for 24 hours.
 
