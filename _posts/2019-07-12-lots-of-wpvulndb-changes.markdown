@@ -30,7 +30,7 @@ We hope that this will allow most users to use our API free of charge, but will 
 
 ## Latest vulnerabilities API endpoint for paid users
 
-Having API endpoints where users can access the latest WordPress, Plugin and Theme vulnerabilities has been a a feature that has been requested a lot from our users.
+Having API endpoints where users can access the latest WordPress, Plugin and Theme vulnerabilities has been a feature that has been requested a lot from our users.
 
 Shortly we will be releasing these new API endpoints for paid users:
 
