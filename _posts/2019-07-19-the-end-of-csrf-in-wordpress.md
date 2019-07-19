@@ -55,5 +55,5 @@ For further reading on the `SameSite` cookie, you should check out Scott Helme's
 - [Cross-Site Request Forgery is dead!](https://scotthelme.co.uk/csrf-is-dead/)
 - [Tough Cookies](https://scotthelme.co.uk/tough-cookies/)
 
-And in the meantime, you should check out our [WordPress security scanner](https://wpscan.io/) and our [WordPress plugin vulnerability database](https://wpvulndb.com/). Oh, and our very own [WordPress security plugin](https://wordpress.org/plugins/wpscan/
+And in the meantime, you should check out our [WordPress security scanner](https://wpscan.io/) and our [WordPress plugin vulnerability database](https://wpvulndb.com/). Oh, and our very own [WordPress security plugin](https://wordpress.org/plugins/wpscan/).
 
