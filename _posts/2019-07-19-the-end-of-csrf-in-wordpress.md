@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The end of CSRF in WordPress?"
-categories: security, wordpress
+categories: security wordpress
 ---
 
 # The end of CSRF in WordPress?
