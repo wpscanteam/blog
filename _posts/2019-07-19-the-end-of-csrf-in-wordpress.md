@@ -36,7 +36,7 @@ There are two SameSite attribute values, `strict` and `lax`.
 
 - Strict - Your cookie is never sent cross-domain
 
-- Lax - Your cookie is not sent a cross-domain for the riskiest, such as HTML POST forms
+- Lax - Your cookie is not sent cross-domain for the riskiest scenarios, such as HTML POST forms
 
 A cookie with a SameSite flag set looks like the following:
 
