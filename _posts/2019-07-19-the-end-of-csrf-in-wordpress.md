@@ -48,7 +48,7 @@ Set-Cookie: session=abc123; path=/; SameSite=Lax
 
 As mentioned in the opening lines of this blog post, Google Chrome plans to add the `SameSite=Lax` cookie by default to all cookies. This is going to eradicate the vast majority of CSRF risks within web applications across the web, including WordPress, and more importantly, its plugins. A lot of authenticated Cross-Site Scripting (XSS) vulnerabilities that affect WordPress and its plugins, currently rely on CSRF to deliver the malicious XSS payload. So this will also have an impact on XSS exploitation. Users who do not update their web browsers to versions that set the `SameSite` flag by default could still be the target of a CSRF attack. But over time, we should find more and more users using web browsers with `SameSite` enabled by default.
 
-So, when will Google Chrome version 80 with the `SameSite` flag by default be released? We have no idea. But if you know, let us know, and we'll update this post. The latest Chrome version available for macOS at the time of writing is version 75, if that helps in some way determine how far away version 80 is.
+So, when will Google Chrome version 80 with the `SameSite` flag by default be released? ~~We have no idea. But if you know, let us know, and we'll update this post. The latest Chrome version available for macOS at the time of writing is version 75, if that helps in some way determine how far away version 80 is.~~ Chrome version 80 stable release is [planned to be released on February 4th 2020](https://chromiumdash.appspot.com/schedule).
 
 For further reading on the `SameSite` cookie, you should check out Scott Helme's great blog posts:
 
