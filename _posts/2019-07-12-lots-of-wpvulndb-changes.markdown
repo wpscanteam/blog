@@ -16,13 +16,13 @@ We have been giving away unlimited free access for non-commercial use to the WPV
 
 To help fund the growing project costs we rely on the money generated charging for commercial use of the WPVulnDB API. As we give free users and commercial users the exact same API access, data and endpoints, it is almost impossible to enforce. We simply do not know if an API request is a commercial one or not. We rely on individual businesses' good will, to inform us that they are using our API commercially. And many businesses have done this, but we suspect that there are many more who simply do not tell us, or may not even know that they are required to pay for commercial use.
 
-Shortly we will be introducing paid API usage for anyone wanting to make more than 100 daily API requests. Paid API usage will cost €25 per month and will be limited to up to 2000 daily requests. And anyone who needs more than 2000 requests per day, will be assessed on an individual basis, much like our current commercial users.
+Shortly we will be introducing paid API usage for anyone wanting to make more than ~~100~~ 50 daily API requests. Paid API usage will cost €25 per month and will be limited to up to ~~2000~~ 250 daily requests. And anyone who needs more than ~~2000~~ 250 requests per day, will be assessed on an individual basis, much like our current commercial users.
 
 So to break it down, these will be the new API usage limits:
 
-- Free usage: 100 requests per day limit
-- Paid usage: 2000 requests per day limit for €25 per month
-- Enterprise usage: Anything more than 2000 requests per day, charged on a case by case basis
+- Free usage: ~~100~~ 50 requests per day limit
+- Paid usage: ~~2000~~ 250 requests per day limit for €25 per month
+- Enterprise usage: Anything more than ~~2000~~ 250 requests per day, charged on a case by case basis
 
 (All of our current commercial API users will be classed as enterprise users)
 
