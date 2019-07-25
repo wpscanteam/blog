@@ -88,8 +88,34 @@ The JSON output will look like the following when no API token is provided:
   }
 ```
 
+# New Status API Endpoint
+
+We will also be releasing a new `status` WPVulnDB API endpoint, which can be used to check your API token validity and API usage, without affecting your daily API limit.
+
+The endpoint will be at:
+
+ - `https://wpvulndb.com/api/v3/status`
+
+ And will return the following for a valid API token:
+
+ ```json
+ {
+  "success": "true",
+  "plan": "free",
+  "requests_remaining": 50
+}
+```
+
+And the following for an invalid API token:
+
+```json
+{"error":"HTTP Token: Access denied."}
+```
+
 ## Conclusions
 
 This will be a big change to the WPScan CLI tool, which will ensure users get the most up to date vulnerability data. It will also help us accommodate users with higher API usage needs. And also help generate income for us to be able to add more vulnerabilities to our [vulnerability database](https://wpvulndb.com/) and improve the quality of our content.
+
+Please note that as the changes have yet to be released, some of the technical specifications may change slightly when actually released.
 
 Don't forget that we will be [deprecating APIv2 on October 1st 2019](https://blog.wpscan.org/wpvulndb/2019/07/05/wpvulndb-apiv2-deprecation.html)!
