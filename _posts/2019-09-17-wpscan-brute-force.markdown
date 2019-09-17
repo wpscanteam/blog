@@ -6,7 +6,7 @@ categories: wpscan
 
 # Password Brute Force
 
-Password brute forcing is a common attack that hackers have used in the past against WordPress sites at scale. In 2017 Wordfence documented a huge [password brute force attack](https://www.wordfence.com/blog/2017/12/aggressive-brute-force-wordpress-attack/), which saw 14.1 million attacker per hour at its peak.
+Password brute forcing is a common attack that hackers have used in the past against WordPress sites at scale. In 2017 Wordfence documented a huge [password brute force attack](https://www.wordfence.com/blog/2017/12/aggressive-brute-force-wordpress-attack/), which saw 14.1 million attacks per hour at its peak.
 
 Attackers are looking for users, preferably administrators, with weak passwords to be able to login to WordPress and compromise the site. Depending on the compromised [user role](https://wordpress.org/support/article/roles-and-capabilities/), once logged in, the attacker could escalate privileges by attacking other users, embed malicious code into the site or compromise the entire server.
 
