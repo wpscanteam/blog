@@ -16,7 +16,7 @@ We think that climate change is one of the biggest threats to the sustainability
 
 It is clear that world governments are not doing enough to help tackle climate change with the urgency that is needed. We as businesses and individuals have to take responsibility to try to curb the destruction of our home.
 
-**We have decided to donate 2% of our yearly profits to a charity that positively impacts climate change.**
+## **We have decided to donate 2% of our yearly profits to a charity that positively impacts climate change.**
 
 We hope that this helps in some small way to help a climate change charity literally hack the planet.
 
