@@ -14,6 +14,11 @@ Now that we have just started to make a little money, through our [WPScan online
 
 We think that climate change is one of the biggest threats to the sustainability of our home, planet Earth. Deforestation, oil production and use, industrial farming, pollution, and many other factors are threatening every living being's future on this planet.
 
+<div align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GlfW7aYouYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen align="center"></iframe>
+</div>
+
+
 It is clear that world governments are not doing enough to help tackle climate change with the urgency that is needed. We as businesses and individuals have to take responsibility to try to curb the destruction of our home.
 
 ## **We have decided to donate 2% of our yearly profits to a charity that positively impacts climate change.**
