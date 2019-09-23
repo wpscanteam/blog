@@ -28,4 +28,5 @@ We could also like to encourage other businesses to take the initiative and join
 
 We do not only plan to donate to charity, but to also include sustainability and the environment within our future business decisions.
 
+{: style="text-align:center"}
 ![Hack the Planet](https://media.giphy.com/media/14kdiJUblbWBXy/giphy.gif)
