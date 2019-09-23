@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hack the Planet"
-categories: wpscan, charity
+categories: wpscan charity
 ---
 
 # Hack the Planet
