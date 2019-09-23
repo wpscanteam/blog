@@ -27,7 +27,7 @@ We hope that this helps in some small way to help a climate change charity liter
 
 We have not decided on any charity yet, but it does need to have a European base, due to accounting legalities. If you would like to recommend a charity, then please [tweet us](https://twitter.com/_wpscan_) your recommendation/s.
 
-We could also like to encourage other businesses to take the initiative and join us. If you are a business owner **we call on you** to donate a portion of your yearly profits to a charity too.
+We would also like to encourage other businesses to take the initiative and join us. If you are a business owner **we call on you** to donate a portion of your yearly profits to a charity too.
 
 [Dewhurst Security](https://dewhurstsecurity.com/), a company founded by a WPScan founder, will also commit to donating 2% of its yearly profits to a climate change charity.
 
