@@ -8,6 +8,13 @@ categories: wordpress security release
 
 Yesterday, October 14th 2019, WordPress released version 5.2.4 as a security release. According to WordPress, WordPress version 5.2.4 fixes 6 security issues.
 
+- [WordPress <= 5.2.3 - Stored XSS in Customizer](https://wpvulndb.com/vulnerabilities/9908)
+- [WordPress <= 5.2.3 - Viewing Unauthenticated Posts](https://wpvulndb.com/vulnerabilities/9909)
+- [WordPress <= 5.2.3 - Stored XSS in Style Tags](https://wpvulndb.com/vulnerabilities/9910)
+- [WordPress <= 5.2.3 - JSON Request Cache Poisoning](https://wpvulndb.com/vulnerabilities/9911)
+- [WordPress <= 5.2.3 - Server-Side Request Forgery (SSRF) in URL Validation](https://wpvulndb.com/vulnerabilities/9912)
+- [WordPress <= 5.2.3 - Admin Referrer Validation](https://wpvulndb.com/wordpresses/523)
+
 From our own research, we identified that 9 files in this release had been modified.
 
 ![Modified Files](/assets/posts/wordpress-524-release/files-modified.png)
