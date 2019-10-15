@@ -13,7 +13,7 @@ Yesterday, October 14th 2019, WordPress released version 5.2.4 as a security rel
 - [WordPress <= 5.2.3 - Stored XSS in Style Tags](https://wpvulndb.com/vulnerabilities/9910)
 - [WordPress <= 5.2.3 - JSON Request Cache Poisoning](https://wpvulndb.com/vulnerabilities/9911)
 - [WordPress <= 5.2.3 - Server-Side Request Forgery (SSRF) in URL Validation](https://wpvulndb.com/vulnerabilities/9912)
-- [WordPress <= 5.2.3 - Admin Referrer Validation](https://wpvulndb.com/wordpresses/523)
+- [WordPress <= 5.2.3 - Admin Referrer Validation](https://wpvulndb.com/vulnerabilities/9913)
 
 From our own research, we identified that 9 files in this release had been modified.
 
