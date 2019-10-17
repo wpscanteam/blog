@@ -9,7 +9,7 @@ categories: wordpress security release
 Yesterday, October 14th 2019, WordPress released version 5.2.4 as a security release. According to WordPress, WordPress version 5.2.4 fixes 6 security issues.
 
 - [WordPress <= 5.2.3 - Stored XSS in Customizer](https://wpvulndb.com/vulnerabilities/9908)
-- [WordPress <= 5.2.3 - Viewing Unauthenticated Posts](https://wpvulndb.com/vulnerabilities/9909)
+- [WordPress <= 5.2.3 - Unauthenticated View Private/Draft Posts](https://wpvulndb.com/vulnerabilities/9909)
 - [WordPress <= 5.2.3 - Stored XSS in Style Tags](https://wpvulndb.com/vulnerabilities/9910)
 - [WordPress <= 5.2.3 - JSON Request Cache Poisoning](https://wpvulndb.com/vulnerabilities/9911)
 - [WordPress <= 5.2.3 - Server-Side Request Forgery (SSRF) in URL Validation](https://wpvulndb.com/vulnerabilities/9912)
@@ -29,11 +29,15 @@ The WordPress Customizer allows authenticated users to make changes to the WordP
 
 This vulnerability has been added to the WordPress Vulnerability Database here: [WordPress <= 5.2.3 - Stored XSS in Customizer](https://wpvulndb.com/vulnerabilities/9908)
 
-## WordPress <= 5.2.3 - Viewing Unauthenticated Posts
+## WordPress <= 5.2.3 - Unauthenticated View Private/Draft Posts
 
-This fix prevents a method of viewing of unauthenticated posts, reported by [J.D. Grimes](https://codesymphony.co/).
+This vulnerability could allow unauthenticated users to view private or draft posts, which otherwise should not be viewable. This issue was reported by [J.D. Grimes](https://codesymphony.co/) to WordPress' bug bounty program on [HackerOne](https://hackerone.com/wordpress).
 
-This vulnerability has been added to the WordPress Vulnerability Database here: [WordPress <= 5.2.3 - Viewing Unauthenticated Posts](https://wpvulndb.com/vulnerabilities/9909)
+The related commit can be found [here](https://github.com/WordPress/WordPress/commit/f82ed753cf00329a5e41f2cb6dc521085136f308).
+
+![Static Fix](/assets/posts/wordpress-524-release/static.png)
+
+This vulnerability has been added to the WordPress Vulnerability Database here: [WordPress <= 5.2.3 - Unauthenticated View Private/Draft Posts](https://wpvulndb.com/vulnerabilities/9909)
 
 ## WordPress <= 5.2.3 - Stored XSS in Style Tags
 
