@@ -8,7 +8,7 @@ categories: wpvulndb
 
 We have just launched a new feature on our [WordPress Vulnerability Database](https://wpvulndb.com/) that will allow Enterprise API users to configure a Webhook that will be triggered every time a new vulnerability is added to our database.
 
-This has been a much requested feature by our Enterprise users and are happy to be able to supply a solution.
+This has been a much requested feature by our Enterprise users and we are happy to be able to supply a solution.
 
 The new Webhook feature will allow Enterprise users to rely on us telling them when we add a new vulnerability, rather than them having to continually check if there are any new vulnerabilities in our database.
 
