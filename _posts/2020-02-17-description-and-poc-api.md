@@ -45,4 +45,6 @@ or
 
 `The PoC will be displayed on DATE, to give users the time to update.`
 
+For non-enterprise users the `description` and `poc` fields will be completely emitted.
+
 This data is only available to enterprise users for now, and is available right away at no additional charge.
