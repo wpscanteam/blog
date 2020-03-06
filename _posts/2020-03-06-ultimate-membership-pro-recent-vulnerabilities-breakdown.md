@@ -4,8 +4,6 @@ title:  "Ultimate Membership Pro Premium WordPress Plugin Recent Vulnerabilities
 categories: wpvulndb report
 ---
 
-# Ultimate Membership Pro Premium WordPress Plugin Recent Vulnerabilities Breakdown
-
 ### Plugin Information
 - Slug: indeed-membership-pro
 - Vendor URL: https://codecanyon.net/item/ultimate-membership-pro-wordpress-plugin/12159253
