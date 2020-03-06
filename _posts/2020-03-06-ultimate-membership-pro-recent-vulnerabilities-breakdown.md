@@ -13,9 +13,9 @@ categories: wpvulndb report
   - < 8.7 for CSRF to Delete/Create Accounts
 
 ### Related WPVulnDB IDs
-- https://wpvulndb.com/vulnerabilities/10061
-- https://wpvulndb.com/vulnerabilities/10086
-- https://wpvulndb.com/vulnerabilities/10087
+- [10061](https://wpvulndb.com/vulnerabilities/10061)
+- [10086](https://wpvulndb.com/vulnerabilities/10086)
+- [10087](https://wpvulndb.com/vulnerabilities/10087)
 
 ### Context
 
@@ -46,7 +46,7 @@ Cookie: {subscriber cookies}
 action=ihc_make_export_file&import_users=1&import_settings=1&import_postmeta=1
 ```
 
-Which will respond with the URL to the export file, containing PII: http://example.com/wp-content/plugins/indeed-membership-pro/export.xml
+Which will respond with the URL to the export file, containing PII: `http://example.com/wp-content/plugins/indeed-membership-pro/export.xml`
 
 The file was then available publicly, and we confirmed its presence on the demo blog of the plugin's author.
 
@@ -86,7 +86,7 @@ Cookie: {subscriber cookies}
 action=ihc_generate_direct_link_by_uid&uid=1
 ```
 
-Both requests above will respond with a link which upon opening, lead to direct login without requiring any credentials, e.g http://example.com/?ihc_action=dl&token=94bb1bcba42feb2e19565a44b3d96838fef9e791
+Both requests above will respond with a link which upon opening, lead to direct login without requiring any credentials, e.g `http://example.com/?ihc_action=dl&token=94bb1bcba42feb2e19565a44b3d96838fef9e791`
 
 The vendor released version 8.6.1, fixing the authorisation checks, however after checking the diff, we (WPScanTeam) found that the fixes were not sufficient.
 
