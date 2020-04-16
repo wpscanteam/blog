@@ -69,42 +69,38 @@ We have implemented a new `youtube` reference type that automatically displays t
 The `youtube` reference type is also output within our API for all users like below, to allow our users to display Youtube videos more easily in their own web UIs:
 
 ```json
+[..SNIP..]
 {
-  "id": 9150,
-  "title": "Yoast SEO <= 9.1 - Authenticated Race Condition",
-  "created_at": "2018-11-20T10:42:14.000Z",
-  "updated_at": "2020-04-15T11:10:06.000Z",
-  "published_date": "2018-11-20T00:00:00.000Z",
-  "description": "According to the changelog,\r\n\r\n\"Race Condition which leads to command execution, by users with SEO Manager roles.\"",
-  "cvss": null,
-  "poc": null,
-  "vuln_type": "RCE",
-  "references": {
-    "url": [
-      "https://plugins.trac.wordpress.org/changeset/1977260/wordpress-seo",
-      "https://packetstormsecurity.com/files/150497/",
-      "https://github.com/Yoast/wordpress-seo/pull/11502/commits/3bfa70a143f5ea3ee1934f3a1703bb5caf139ffa"
-    ],
-    "cve": [
-      "2018-19370"
-    ],
-    "youtube": [
-      "nL141dcDGCY"
-    ]
-  },
-  "plugins": {
-    "wordpress-seo": {
-      "fixed_in": "9.2"
-    }
-  },
-  "themes": {},
-  "wordpresses": {}
-}
+        "id": 9150,
+        "title": "Yoast SEO <= 9.1 - Authenticated Race Condition",
+        "created_at": "2018-11-20T10:42:14.000Z",
+        "updated_at": "2020-04-15T11:10:06.000Z",
+        "published_date": "2018-11-20T00:00:00.000Z",
+        "description": "According to the changelog,\r\n\r\n\"Race Condition which leads to command execution, by users with SEO Manager roles.\"",
+        "cvss": null,
+        "poc": null,
+        "vuln_type": "RCE",
+        "references": {
+          "url": [
+            "https://plugins.trac.wordpress.org/changeset/1977260/wordpress-seo",
+            "https://packetstormsecurity.com/files/150497/",
+            "https://github.com/Yoast/wordpress-seo/pull/11502/commits/3bfa70a143f5ea3ee1934f3a1703bb5caf139ffa"
+          ],
+          "cve": [
+            "2018-19370"
+          ],
+          "youtube": [
+            "nL141dcDGCY"
+          ]
+        },
+        "fixed_in": "9.2"
+      }
+[..SNIP..]
 ```
 
 You can test the new `youtube` reference output with the following command:
 
-`curl -s -H "Authorization: Token token=YOUR_TOKEN" https://wpvulndb.com/api/v3/vulnerabilities/9150 | jq`
+`curl -H "Authorization: Token token=YOUR_TOKEN" https://wpvulndb.com/api/v3/plugins/wordpress-seo`
 
 # More
 
