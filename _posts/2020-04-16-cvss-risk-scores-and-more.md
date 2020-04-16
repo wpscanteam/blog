@@ -57,7 +57,7 @@ You can test the new CVSS JSON output with the following command:
 
 All vulnerabilities added to the database up until now *will not* have CVSS scores assigned. We hope to one day be able to add CVSS scores to all our of our older vulnerabilities eventually, but this will be a very big undertaking.
 
-The latest version of the [WPScan CLI tool](https://wpscan.org/) will output the CVSS scores in its STDOUT and JSON output, if the API token provided belongs to an Enterprise user. We also hope to implement the scores into our [WordPress Security Plugin](https://wordpress.org/plugins/wpscan/) and [Online WordPress Security Scanner](https://wpscan.io/) in the near future.
+From version 3.8.1 of the [WPScan CLI tool](https://wpscan.org/), it will output the CVSS scores in its STDOUT and JSON output, if the API token provided belongs to an Enterprise user. We also hope to implement the scores into our [WordPress Security Plugin](https://wordpress.org/plugins/wpscan/) and [Online WordPress Security Scanner](https://wpscan.io/) in the near future.
 
 # Youtube Video References
 
