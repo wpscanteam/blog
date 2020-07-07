@@ -4,7 +4,7 @@ title:  "Old WPScan Deprecation on February 1st"
 categories: wpscan deprecation
 ---
 
-# Old WPScan Deprecation on February 1st
+## Old WPScan Deprecation on February 1st
 
 We released WPScan 3.7.0 on [September 13th 2019](https://twitter.com/_WPScan_/status/1172432920159539202), which uses the [WPVulnDB API](https://wpvulndb.com/api) to fetch vulnerability data in real time. On February 1st 2020, we will be deprecating the use of older versions of WPScan, prior to version 3.7.0.
 

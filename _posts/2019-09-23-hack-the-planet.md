@@ -4,7 +4,7 @@ title:  "Hack the Planet"
 categories: wpscan charity
 ---
 
-# Hack the Planet
+## Hack the Planet
 
 WPScan started as a simple Ruby script in 2011 to help identify vulnerabilities in self-hosted WordPress websites. The simple script matured into a large software project and gained popularity amongst the security and WordPress communities.
 

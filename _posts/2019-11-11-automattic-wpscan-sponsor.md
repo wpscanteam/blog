@@ -4,7 +4,7 @@ title:  "Our new sponsor: Automattic"
 categories: wpscan sponsor
 ---
 
-# Our new sponsor: Automattic
+## Our new sponsor: Automattic
 
 We'd like to introduce you to our new sponsor [Automattic](https://automattic.com/)!
 

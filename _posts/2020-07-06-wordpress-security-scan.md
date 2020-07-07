@@ -18,7 +18,7 @@ According to [Sucuri's 2019 Website Threat Research Report](https://sucuri.net/r
 
 Here at WPScan, we can offer many different solutions to this problem. To help you reduce the risk of your WordPress website being hacked by an outdated and vulnerable version of WordPress, plugin vulnerabilities, or theme vulnerabilities.
 
-# WPScan WordPress Security Scanner
+## WPScan WordPress Security Scanner
 
 Our Command Line Interface (CLI) WPScan [WordPress Security Scanner](https://github.com/wpscanteam/wpvulndb) can give you a hacker's view of your WordPress security. It checks for security misconfiguration issues, as well as for known vulnerabilities in WordPress Core, plugins and themes, using our own constantly updated [WordPress Vulnerability Database](https://wpvulndb.com/).
 
@@ -26,18 +26,18 @@ Our Command Line Interface (CLI) WPScan [WordPress Security Scanner](https://git
 
 To learn how to use the CLI tool we have some handy [WPScan User Documentation](https://github.com/wpscanteam/wpscan/wiki/WPScan-User-Documentation) available on our Github wiki. For those of you who may not be too comfortable using a CLI tool we have other solutions too.
 
-# Online WPScan WordPress Security Scanner
+## Online WPScan WordPress Security Scanner
 
 Our [Online WPScan WordPress Security Scanner](https://wpscan.io/) is a SaaS based solution, where you can simply enter in your WordPress website's address and we'll take care of the rest. This solution uses our CLI tool in the background coupled with the vulnerability data from our own [WordPress Vulnerability Database](https://wpvulndb.com/). This solution also gives you a hacker's view of your WordPress security.
 
 ![Online WPScan WordPress Security Scanner](/assets/posts/wpscan-security-scan/online-wordpress-security-scan.png)
 
-# WPScan WordPress Security Plugin
+## WPScan WordPress Security Plugin
 
 And for those of you who would rather install a WordPress security plugin, we have our very own WPScan [WordPress Security Plugin](https://wordpress.org/plugins/wpscan/) that will list any known vulnerabilities that affect your WordPress Core version, any installed plugin and any installed themes.
 
 ![WordPress Security Plugin](/assets/posts/wpscan-security-scan/wordpress-security-plugin.png)
 
-# Conclusions
+## Conclusions
 
 We offer many different services to help keep you informed about WordPress security vulnerabilities that may affect your website. Hopefully one of our services is the right fit for you!

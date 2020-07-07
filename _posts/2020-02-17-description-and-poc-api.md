@@ -4,7 +4,7 @@ title:  "New Description and PoC fields in API"
 categories: wpvulndb
 ---
 
-# New Description and PoC fields in API
+## New Description and PoC fields in API
 
 From today we have two new fields output in our API for enterprise users, the `description` and `poc` fields.
 

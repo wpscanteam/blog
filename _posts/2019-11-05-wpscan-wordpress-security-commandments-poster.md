@@ -4,7 +4,7 @@ title:  "WPScan WordPress Security Commandments Poster"
 categories: wpscan wordpress security poster
 ---
 
-# WPScan WordPress Security Commandments
+## WPScan WordPress Security Commandments
 
 Today we are releasing three different posters related to WPScan and WordPress security. Hopefully you find them useful enough and beautiful enough to hang on your wall.
 

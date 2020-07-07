@@ -28,13 +28,13 @@ So to break it down, these will be the API usage limits:
 
 ## Technical Implementation
 
-# Input
+### Input
 
 When WPScan CLI version 3.7.0 is released in the next few weeks, you will need to [register an account on WPVulnDB](https://wpvulndb.com/users/sign_up) to get your API token.
 
 You can then pass your API token to the WPScan CLI tool in various ways. You can pass the API token via the CLI options by using the `--api-token` option, or you can configure the API token in the `cli_options.yml|.json` file and place the file in the current working directory, or the `~/.wpscan/` directory. Please refer to the [WPScan CLI documentation](https://github.com/wpscanteam/wpscan#usage) for further information.
 
-# Output
+### Output
 
 The API token functionality will produce the following output from the WPScan CLI.
 
@@ -88,7 +88,7 @@ The JSON output will look like the following when no API token is provided:
   }
 ```
 
-# New Status API Endpoint
+## New Status API Endpoint
 
 We will also be releasing a new `status` WPVulnDB API endpoint, which can be used to check your API token validity and API usage, without affecting your daily API limit.
 

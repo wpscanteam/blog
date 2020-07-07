@@ -4,7 +4,7 @@ title:  "Lots of WPVulnDB Changes"
 categories: wpvulndb
 ---
 
-# Lots of WPVulnDB Changes
+## Lots of WPVulnDB Changes
 
 Recently we have been working on some big improvements to WPVulnDB, which you will see being released over the next few weeks. Below is a list of the improvements which will impact users the most.
 

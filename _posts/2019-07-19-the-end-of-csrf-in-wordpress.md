@@ -4,7 +4,7 @@ title:  "The end of CSRF in WordPress?"
 categories: security wordpress
 ---
 
-# The end of CSRF in WordPress?
+## The end of CSRF in WordPress?
 
 The Google Chrome web browser plans to [set the SameSite attribute on all cookies by default](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/AknSSyQTGYs/D5Y3BauOBAAJ) in Chrome version 80. Google Chrome by far controls the [largest share](https://netmarketshare.com/browser-market-share.asp?options=%7B%22filter%22%3A%7B%22%24and%22%3A%5B%7B%22deviceType%22%3A%7B%22%24in%22%3A%5B%22Desktop%2Flaptop%22%5D%7D%7D%5D%7D%2C%22dateLabel%22%3A%22Trend%22%2C%22attributes%22%3A%22share%22%2C%22group%22%3A%22browser%22%2C%22sort%22%3A%7B%22share%22%3A-1%7D%2C%22id%22%3A%22browsersDesktop%22%2C%22dateInterval%22%3A%22Monthly%22%2C%22dateStart%22%3A%222018-07%22%2C%22dateEnd%22%3A%222019-06%22%2C%22segments%22%3A%22-1000%22%7D) of the web browser market. Their changes have a significant impact on the Web. It wouldn't be surprising if other major web browsers also followed their lead, implementing the `SameSite` cookie attribute by default too. How is this change going to affect the Web and WordPress security in particular?
 

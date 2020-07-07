@@ -4,7 +4,7 @@ title:  "Dradis WPScan Integration"
 categories: wpscan
 ---
 
-# Dradis WPScan Integration
+## Dradis WPScan Integration
 
 We're happy to announce that WPScan's CLI JSON output can now be seamlessly imported into the [Dradis Framework](https://dradisframework.com/)!
 

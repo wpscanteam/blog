@@ -4,7 +4,7 @@ title:  "WPVulnDB APIv2 Deprecation"
 categories: wpvulndb
 ---
 
-# WPVulnDB APIv2 Deprecation
+## WPVulnDB APIv2 Deprecation
 
 We released [APIv3](https://wpvulndb.com/api), the successor to APIv2, on March 20th 2018. The new APIv3 requires users to [register a free account](https://wpvulndb.com/users/sign_up) on [wpvulndb.com](https://wpvulndb.com/) and use an API Token to access our API. With the old APIv2, no user registration or API Tokens were required. Requiring API Tokens meant that we could easily identify heavy usage of our API by a particular user, which may have affected other API users, and more easily prevent abuse.
 

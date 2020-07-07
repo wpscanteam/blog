@@ -4,7 +4,7 @@ title:  "WPScan CLI Cheat Sheet Poster"
 categories: wpscan cheatsheet poster
 ---
 
-# WPScan CLI Cheat Sheet Poster
+## WPScan CLI Cheat Sheet Poster
 
 Today we are releasing three different posters related to WPScan and WordPress security. Hopefully you find them useful enough and beautiful enough to hang on your wall.
 

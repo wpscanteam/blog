@@ -4,7 +4,7 @@ title:  "Slack Incoming Webhook Notifications"
 categories: wpvulndb
 ---
 
-# Slack Incoming Webhook Notifications
+## Slack Incoming Webhook Notifications
 
 From today all Enterprise users have access to Slack Incoming Webhook Notifications functionality.
 

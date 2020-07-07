@@ -4,7 +4,7 @@ title:  "New WPVulnDB Webhooks"
 categories: wpvulndb
 ---
 
-# New WPVulnDB Webhooks
+## New WPVulnDB Webhooks
 
 We have just launched a new feature on our [WordPress Vulnerability Database](https://wpvulndb.com/) that will allow Enterprise API users to configure a Webhook that will be triggered every time a new vulnerability is added to our database.
 

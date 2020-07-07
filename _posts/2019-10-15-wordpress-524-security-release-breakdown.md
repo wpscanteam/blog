@@ -4,7 +4,7 @@ title:  "WordPress 5.2.4 Security Release Breakdown"
 categories: wordpress security release
 ---
 
-# WordPress 5.2.4 Security Release Breakdown
+## WordPress 5.2.4 Security Release Breakdown
 
 Yesterday, October 14th 2019, WordPress released version 5.2.4 as a security release. According to WordPress, WordPress version 5.2.4 fixes 6 security issues.
 

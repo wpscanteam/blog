@@ -4,7 +4,7 @@ title:  "New WPVulnDB Features"
 categories: wpvulndb
 ---
 
-# New WPVulnDB Features
+## New WPVulnDB Features
 
 For the past few weeks we have been busy working on new features and improvements to our [WordPress Vulnerability Database](https://wpvulndb.com/), which went live today.
 

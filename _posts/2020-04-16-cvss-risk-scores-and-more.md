@@ -4,7 +4,7 @@ title:  "CVSS Risk Scores and More"
 categories: wpvulndb
 ---
 
-# CVSS Risk Scores
+## CVSS Risk Scores
 
 Since we launched our [WordPress vulnerability database](https://wpvulndb.com/) in 2014, we have been lacking one important factor, vulnerability risk scores. This was partly due to not being able to decide on which risk scoring system to use, not having the time to implement the system, and not having the time to assign risk scores to new vulnerabilities, if the system was implemented.
 
