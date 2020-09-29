@@ -24,4 +24,4 @@ Ultimately, we thought that it would be best to close the project rather than pr
 
 So good bye WPScan.io <3
 
-*(P.S. This does not affect any of our other [products](https://wpscan.org/) or [https://wpscan.com/](services)!)*
+*(P.S. This does not affect any of our other [products](https://wpscan.org/) or [services](https://wpscan.com/)!*
