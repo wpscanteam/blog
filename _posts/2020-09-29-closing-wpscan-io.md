@@ -6,7 +6,7 @@ categories: wpscan.io
 
 ## On December 1st 2020 we will be closing WPScan.io (the SaaS)
 
-*(We are not closing any of our other products or services, just the online WPScan.io SaaS!)*
+*(We are __not__ closing any of our other products or services, just the online WPScan.io SaaS!)*
 
 WPScan.io started life in 2015 when we contracted a Rails development company to create a SaaS web front end on top of our [WPScan CLI tool](https://wpscan.org/). Unfortunately, at that time, we only had the budget to complete around 50% of the work, as we were still a community project making hardly any money.
 
@@ -24,4 +24,4 @@ Ultimately, we thought that it would be best to close the project rather than pr
 
 So good bye WPScan.io <3
 
-*(P.S. This does not affect any of our other [products](https://wpscan.org/) or [services](https://wpscan.com/)!*
+*(P.S. This does not affect any of our other [products](https://wpscan.org/) or [services](https://wpscan.com/)!)*
