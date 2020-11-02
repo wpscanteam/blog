@@ -23,7 +23,7 @@ We also welcomed [3,766](https://twitter.com/_WPScan_/status/1323172998870958081
 
 This month we have seen the [WordPress 5.5.2 security release](https://blog.wpscan.com/2020/10/30/wordpress-5.5.2-security-release.html) and subsequent [emergency WordPress 5.5.3 release](https://www.wordfence.com/blog/2020/10/emergency-wp-5-5-3-release/).
 
-WordPress 5.2.2 reportedly patched 10 security issues, including a [Cross-Site Request Forgery (CSRF) vulnerability](https://wpscan.com/vulnerability/10454) from our very own security researcher, Erwan. The vulnerability could allow attackers to change theme backgrounds in certain circumstances.
+WordPress 5.5.2 reportedly patched 10 security issues, including a [Cross-Site Request Forgery (CSRF) vulnerability](https://wpscan.com/vulnerability/10454) from our very own security researcher, Erwan. The vulnerability could allow attackers to change theme backgrounds in certain circumstances.
 
 A day after the 5.5.2 release, WordPress released version 5.5.3, which fixed a bug where WordPress was prevented to be installed on brand new WordPress installations without a database connection.
 
