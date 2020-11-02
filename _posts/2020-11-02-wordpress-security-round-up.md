@@ -29,7 +29,7 @@ A day after the 5.5.2. release, WordPress released version 5.5.3, which fixed a 
 
 ### WordPress Plugins
 
-In October we added 32 new WordPress plugin vulnerabilities to our database. Some that stand out are discussed below.
+In October we added 32 new WordPress plugin vulnerabilities to [our database](https://wpscan.org). Some that stand out are discussed below.
 
 #### Loginizer
 
@@ -53,7 +53,7 @@ Wordfence discovered an [Authenticated Stored Cross-Site Scripting (XSS)](https:
 
 ### WordPress Themes
 
-In October we added 18 new WordPress theme vulnerabilities to our database. Some that stand out are discussed below.
+In October we added 18 new WordPress theme vulnerabilities to [our database](https://wpscan.org). Some that stand out are discussed below.
 
 #### Greenmart
 
