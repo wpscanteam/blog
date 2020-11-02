@@ -47,7 +47,7 @@ What we have seen is probes for the SuperStoreFinder plugins, that allow [Unauth
 
 The popular Ninja Forms plugin was affected by a [particularly nasty issue](https://wpscan.com/vulnerability/10424) that allowed arbitrary plugins from the official WordPress repository to be installed by leveraging a Cross-Site Request Forgery (CSRF) vulnerability. This vulnerability was fixed in version 3.4.27.1.
 
-### WPBakery Page Builder
+#### WPBakery Page Builder
 
 Wordfence discovered an [Authenticated Stored Cross-Site Scripting (XSS)](https://wpscan.com/vulnerability/10422) security vulnerability within the WPBakery Page Builder WordPress plugin. The vulnerability could allow a low privileged user, such as contributor, to inject malicious JavaScript into posts. This vulnerability was fixed in version 6.4.1.
 
