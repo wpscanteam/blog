@@ -39,7 +39,7 @@ This month we saw the forced update of the [Loginizer WordPress plugin](https://
 
 #### SuperStoreFinder
 
-What we have seen is probes for the SuperStoreFinder plugins, that allow [Unauthenticated Arbitrary File Upload](https://wpscan.com/vulnerability/10439). The original vulnerabilities could have first been discovered by an internal penetration test that were mentioned in the changelog.
+What we have seen is probes for the SuperStoreFinder plugins, that allow [Unauthenticated Arbitrary File Upload](https://wpscan.com/vulnerability/10439). The original vulnerabilities could have first been discovered by an internal penetration test that were mentioned in the changelog. In total there were three plugins affected and all three have been updated to patch the issue.
 
 #### Ninja Forms
 
