@@ -57,7 +57,7 @@ In October we added 18 new WordPress theme vulnerabilities to [our database](htt
 
 #### Greenmart
 
-Due to an incomplete fix of [CVE-2020-16140](https://wpscan.com/vulnerability/10444), a reflected Cross-Site Scripting (XSS) attack is still possible by unauthenticated users, by extracting the search_nonce from the source of the homepage and adding it to the original payload. This is possible because WordPress nonces are tied to the logged in user ID, however in the case of unauthenticated users, their ID is always `0` so they will have the same nonce.
+Due to an incomplete fix of [CVE-2020-16140](https://wpscan.com/vulnerability/10444), a reflected Cross-Site Scripting (XSS) attack was still possible by unauthenticated users, by extracting the search_nonce from the source of the homepage and adding it to the original payload. This is possible because WordPress nonces are tied to the logged in user ID, however in the case of unauthenticated users, their ID is always `0` so they will have the same nonce.
 
 #### Real Estate 7
 
