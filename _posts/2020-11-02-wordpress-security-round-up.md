@@ -29,7 +29,7 @@ A day after the 5.5.2 release, WordPress released version 5.5.3, which fixed a b
 
 ### WordPress Plugins
 
-In October we added 32 new WordPress plugin vulnerabilities to [our database](https://wpscan.org). Some that stand out are discussed below.
+In October we added 32 new WordPress plugin vulnerabilities to [our database](https://wpscan.com). Some that stand out are discussed below.
 
 #### Loginizer
 
@@ -53,7 +53,7 @@ Wordfence discovered an [Authenticated Stored Cross-Site Scripting (XSS)](https:
 
 ### WordPress Themes
 
-In October we added 18 new WordPress theme vulnerabilities to [our database](https://wpscan.org). Some that stand out are discussed below.
+In October we added 18 new WordPress theme vulnerabilities to [our database](https://wpscan.com). Some that stand out are discussed below.
 
 #### Greenmart
 
@@ -65,4 +65,4 @@ Verion 3.0.4 of the Real Estate 7 theme was found to be affected an [Unauthentic
 
 ## How to protect yourself
 
-You should update your WordPress blog to the latest version as soon as possible, including all plugins and themes. Additionally, you can sign up to our email alerts to get instant email notifications about security vulnerabilities in WordPress. You can install our [WordPress security plugin](https://wordpress.org/plugins/wpscan/), or use our [WordPress security scanner](https://wpscan.org/).
+You should update your WordPress blog to the latest version as soon as possible, including all plugins and themes. Additionally, you can sign up to our email alerts to get instant email notifications about security vulnerabilities in WordPress. You can install our [WordPress security plugin](https://wordpress.org/plugins/wpscan/), or use our [WordPress security scanner](https://wpscan.com/).

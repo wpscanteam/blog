@@ -10,15 +10,15 @@ Today we are releasing three different posters related to WPScan and WordPress s
 
 The three posters are:
 
-1. [WPScan CLI Cheat Sheet Poster](https://blog.wpscan.org/wpscan/cheatsheet/poster/2019/11/05/wpscan-cli-cheat-sheet-poster.html)
+1. [WPScan CLI Cheat Sheet Poster](https://blog.wpscan.com/wpscan/cheatsheet/poster/2019/11/05/wpscan-cli-cheat-sheet-poster.html)
 
 A cheat sheet for WPScan CLI commands.
 
-2. [WPScan Plugin Security Commandments](https://blog.wpscan.org/wpscan/security/poster/2019/11/05/wpscan-plugin-security-commandments-poster.html)
+2. [WPScan Plugin Security Commandments](https://blog.wpscan.com/wpscan/security/poster/2019/11/05/wpscan-plugin-security-commandments-poster.html)
 
 A list of 10 plugin security commandments for WordPress plugin developers.
 
-3. [WPScan WordPress Security Commandments](https://blog.wpscan.org/wpscan/wordpress/security/poster/2019/11/05/wpscan-wordpress-security-commandments-poster.html)
+3. [WPScan WordPress Security Commandments](https://blog.wpscan.com/wpscan/wordpress/security/poster/2019/11/05/wpscan-wordpress-security-commandments-poster.html)
 
 A list of 10 WordPress security commandments for WordPress administrators.
 

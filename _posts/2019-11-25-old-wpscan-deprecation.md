@@ -14,4 +14,4 @@ On February 1st 2020, versions of WPScan less than version 3.7.0 may cease to wo
 
 If you are upgrading to the latest version of WPScan, please remember that **you will need an API key to fetch and display the vulnerability data**. To obtain your API key you can sign up for a free account on [https://wpvulndb.com/users/sign_up](https://wpvulndb.com/users/sign_up).
 
-If you have any questions, or concerns, please email us at `team-at-wpscan.org`.
+If you have any questions, or concerns, please email us at `team-at-wpscan.com`.

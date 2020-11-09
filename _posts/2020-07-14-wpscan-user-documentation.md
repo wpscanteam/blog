@@ -169,7 +169,7 @@ If WPScan is not working as expected, you can use the `--proxy` option, and use 
 
 ## Keeping Informed
 
-We blog here - [https://blog.wpscan.org/](https://blog.wpscan.org/)
+We blog here - [https://blog.wpscan.com/](https://blog.wpscan.com/)
 
 We tweet here - [https://twitter.com/\_wpscan\_](https://twitter.com/\_wpscan\_)
 

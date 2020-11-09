@@ -22,7 +22,7 @@ You can configure this via your profile page, and it looks like this:
 
 ## 2. Webhooks when vulnerabilities are updated
 
-We introduced [Webhooks](https://blog.wpscan.org/wpvulndb/2019/12/09/wpvulndb-webhooks.html) and [Slack incoming Webhooks](https://blog.wpscan.org/wpvulndb/2020/03/16/slack-incoming-webhook-notifications.html) over the past few months. These will send a Webhook when a new vulnerability is added to the database. The new functionality now lets you also be alerted when vulnerabilities are updated.
+We introduced [Webhooks](https://blog.wpscan.com/wpvulndb/2019/12/09/wpvulndb-webhooks.html) and [Slack incoming Webhooks](https://blog.wpscan.com/wpvulndb/2020/03/16/slack-incoming-webhook-notifications.html) over the past few months. These will send a Webhook when a new vulnerability is added to the database. The new functionality now lets you also be alerted when vulnerabilities are updated.
 
 You can configure this via your profile page, and it looks like this:
 

@@ -6,7 +6,7 @@ categories: wpscan
 
 ## Lots of WPScan CLI Changes
 
-Well, in fact, there is just one change, but it's a big one. Recently we released some big changes to [WPVulnDB](https://wpvulndb.com/), which we [recently blogged about](https://blog.wpscan.org/wpvulndb/2019/07/12/lots-of-wpvulndb-changes.html). Now, we want to tell you about a big change that we are going to be making to the [WPScan CLI tool](https://github.com/wpscanteam/wpscan) in version 3.7.0, which will be released sometime within the next few weeks.
+Well, in fact, there is just one change, but it's a big one. Recently we released some big changes to [WPVulnDB](https://wpvulndb.com/), which we [recently blogged about](https://blog.wpscan.com/wpvulndb/2019/07/12/lots-of-wpvulndb-changes.html). Now, we want to tell you about a big change that we are going to be making to the [WPScan CLI tool](https://github.com/wpscanteam/wpscan) in version 3.7.0, which will be released sometime within the next few weeks.
 
 ## Vulnerability Data API Tokens
 
@@ -118,4 +118,4 @@ This will be a big change to the WPScan CLI tool, which will ensure users get th
 
 Please note that as the changes have yet to be released, some of the technical specifications may change slightly when actually released.
 
-Don't forget that we will be [deprecating APIv2 on October 1st 2019](https://blog.wpscan.org/wpvulndb/2019/07/05/wpvulndb-apiv2-deprecation.html)!
+Don't forget that we will be [deprecating APIv2 on October 1st 2019](https://blog.wpscan.com/wpvulndb/2019/07/05/wpvulndb-apiv2-deprecation.html)!
