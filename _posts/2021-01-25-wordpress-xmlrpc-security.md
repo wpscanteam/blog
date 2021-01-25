@@ -96,7 +96,7 @@ We will show this warning if XMLRPC is partially disabled (still allows unauthen
 
 ### Conclusions
 
-When enabled, XMLRPC increases your WordPress website's attack surface, as hackers have more "windows" to try to break through. We can be pretty confident that in the latest version of WordPress that XMLRPC is secure enough. That being said, we do recommend that it be disabled with webserver configurations, as in the majority of cases, WordPress XMLRPC is hardly used.
+When enabled, XMLRPC increases your WordPress website's attack surface, as attackers have more "windows" to try to break through. We can be pretty confident that in the latest version of WordPress that XMLRPC is secure enough. That being said, we do recommend that it be disabled with webserver configurations, as in the majority of cases, WordPress XMLRPC is hardly used.
 
 Some plugins may claim that they have disabled the XML-RPC interface, but in some cases, this can be misleading, and leave unauthenticated methods accessible.
 
