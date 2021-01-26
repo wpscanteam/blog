@@ -81,6 +81,20 @@ If you have access to your main Apache configuration file, use the code below th
 </Files>
 ```
 
+#### From within the source code
+
+Scott Brown Consulting documented a way to disable XML-RPC from within WordPress or a WordPress plugin, which hooks the `xmlrpc_methods` filter, as shown below.
+
+```php
+// disable xmlrpc
+function remove_xmlrpc_methods( $methods ) {
+  return array();
+}
+add_filter( 'xmlrpc_methods', 'remove_xmlrpc_methods' );
+```
+
+Read their full write up [here](https://www.scottbrownconsulting.com/2020/03/two-ways-to-fully-disable-wordpress-xml-rpc/).
+
 ### Checking if XML-RPC is disabled
 
 Our [WordPress security plugin](https://wordpress.org/plugins/wpscan/) will detect if XMLRPC is enabled or not. Our plugin will also go as far as testing if both authenticated and unauthenticated access is blocked, or not. As we mentioned above, most plugins will still allow unauthenticated methods, which have been known to be affected by serious security issues in the past.
