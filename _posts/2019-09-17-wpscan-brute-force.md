@@ -47,20 +47,10 @@ In our case, WPScan automatically found three valid WordPress users (`admin`, `e
 
 ![WPScan Brute Force](/assets/posts/wpscan-brute-force/wpscan-brute-force_2.png)
 
-## WPScan.io Brute Force
-
-Our [WPScan online WordPress vulnerability scanner](https://wpscan.io/), WPScan.io, will conduct automated password brute force attacks in the `Normal` and `Thorough` scan profiles available to all paid plans. Our Free plan does not include password brute forcing, but it does include some other basic checks free of charge.
-
-When a weak password is found in WPScan.io, it looks like this within your report:
-
-![WPScan Brute Force](/assets/posts/wpscan-brute-force/wpscan-brute-force_3.png)
-
 ## Password Brute Force Prevention
 
 The best advice is to not use weak passwords in the first place. Use long and complex passwords that are different for every website that you use. A password manager like [LastPass](https://www.lastpass.com/) is a great tool to help you with this.
 
 You can also use [have i been pwned?](https://haveibeenpwned.com) to see if any of your passwords have already been compromised, or sign up to their email alerts to be notified if a password is leaked in the future.
 
-Reputable WordPress security plugins can also help. We would recommend [Wordfence](https://www.wordfence.com/) or one of the excellent plugins by [WP WhiteSecurity](https://www.wpwhitesecurity.com/).
-
-And of course, you should always verify your security with services such as our [WPScan.io](https://wpscan.io/).
+Reputable WordPress security plugins can also help. We would recommend our own [WordPress security plugin](https://wordpress.org/plugins/wpscan/) that emulates a brute force attack and checks privileged users for weak passwords.
