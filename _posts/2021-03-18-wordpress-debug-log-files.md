@@ -24,16 +24,7 @@ Debug log files can contain all sorts of juicy information that could aid an att
 
 Debug log files are so often left exposed that many can be found on Google when using the correct keywords. One redacted snippet can be found below:
 
-```
-[20-Feb-2019 15:04:25 UTC] PHP Parse error:  syntax error, unexpected '<' in F:\redacted\www\REDACTED\wp-content\themes\redacted\contents\content-problemas-identificados.php on line 11
-
-[20-Feb-2019 15:04:25 UTC] PHP Stack trace:
-
-[20-Feb-2019 15:04:25 UTC] PHP   1. {main}() F:\redacted\www\REDACTED\index.php:0
-
-[20-Feb-2019 15:04:26 UTC] PHP   2. require() F:\redacted\www\REDACTED\index.php:17
-
-```
+![WordPress Debug Log File](/assets/posts/debuglog-files/debuglog.png)
 
 ### How to check for debug log files
 
