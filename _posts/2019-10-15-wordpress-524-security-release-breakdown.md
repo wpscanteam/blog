@@ -93,6 +93,6 @@ This vulnerability has been added to the WordPress Vulnerability Database here: 
 
 A varied type of vulnerabilities for this security release. It is difficult to know the severity of these issues without the Proof of Concept (PoC) code. A PoC could be created for each issue with more research, or the original vulnerability researchers themselves may release them in future, once enough WordPress users have updated to version 5.2.4.
 
-Since all of these issues have been added to our [WordPress Vulnerability Database](https://wpvulndb.com/), all of our [WPScan.io](https://wpscan.io/), [WPScan CLI](http://wpscan.com/), [WPVulnDB API](https://wpvulndb.com/api) and [WPScan WordPress Plugin](https://wordpress.org/plugins/wpscan/) users will be alerted.
+Since all of these issues have been added to our [WordPress Vulnerability Database](https://wpvulndb.com/), all of our [WPScan.io](https://wpscan.io/), [WPScan CLI](https://wpscan.com/), [WPVulnDB API](https://wpvulndb.com/api) and [WPScan WordPress Plugin](https://wordpress.org/plugins/wpscan/) users will be alerted.
 
 Read the full official release blog post [here](https://wordpress.org/news/2019/10/wordpress-5-2-4-security-release/).
