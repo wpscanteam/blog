@@ -95,4 +95,4 @@ A varied type of vulnerabilities for this security release. It is difficult to k
 
 Since all of these issues have been added to our [WordPress Vulnerability Database](https://wpvulndb.com/), all of our [WPScan.io](https://wpscan.io/), [WPScan CLI](http://wpscan.com/), [WPVulnDB API](https://wpvulndb.com/api) and [WPScan WordPress Plugin](https://wordpress.org/plugins/wpscan/) users will be alerted.
 
-Read the full official release blog post [https://wordpress.org/news/2019/10/wordpress-5-2-4-security-release/](here).
+Read the full official release blog post [here](https://wordpress.org/news/2019/10/wordpress-5-2-4-security-release/).
