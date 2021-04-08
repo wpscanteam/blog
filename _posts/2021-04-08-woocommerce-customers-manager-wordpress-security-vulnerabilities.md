@@ -21,7 +21,7 @@ At WPScan we work closely with plugin authors to ensure the fixes that they impl
 
 ### Authenticated Reflected Cross-Site Scripting (XSS)
 
-The `wccm_customers_ids` and `wccm_customers_emails` parameters are output in `href` attributes, after being sanitised with the `sanitize_text_field()` function, which is not appropriate for such case, as payload such as `' injected-attribute=value` will still be injected.
+The `wccm_customers_ids` and `wccm_customers_emails` parameters were output in `href` attributes, after being sanitised with the `sanitize_text_field()` function, which is not appropriate for such case, as payload such as `' injected-attribute=value` will still be injected.
 
 In `classes/admin/WCCM_CustomerGuestList.php`
 ```php
@@ -40,7 +40,7 @@ Log on to the blog as administraor and open the below URLs:
 
 ### Arbitrary User Account Creation/Update via CSRF
 
-The `upload_csv` AJAX action, available to authenticated users, does not have any CSRF check, allowing attackers to make logged in users with the `manage_woocommerce` capability (by default administrator) import arbitrary accounts. This could lead to rogue administrator accounts to be created and the blog being compromised.
+The `upload_csv` AJAX action, available to authenticated users, did not have any CSRF check, allowing attackers to make logged in users with the `manage_woocommerce` capability (by default administrator) import arbitrary accounts. This could lead to rogue administrator accounts to be created and the blog being compromised.
 
 In `classes/admin/WCCM_CustomerImport.php`
 ```php
