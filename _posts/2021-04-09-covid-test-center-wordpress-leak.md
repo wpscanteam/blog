@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Covid Test Centers Leak Personal Information via WordPress API"
+title: "Covid Test Centres Leak Personal Information via WordPress API"
 ---
 
-Over 14,000 covid test patients were affected by a [data leak](https://www.golem.de/news/coronapandemie-neues-datenleck-bei-corona-testzentren-2104-155604.html) in Germany this week, due to using incremental identifiers in their custom WordPress REST API endpoint.
+Over 14,000 covid test patients were affected by a [data leak](https://www.golem.de/news/coronapandemie-neues-datenleck-bei-corona-testzentren-2104-155604.html) in Germany this week. This was due to the testing centre software using incremental identifiers in their custom WordPress REST API endpoint.
 
 ![Loginizer Plugin](/assets/posts/covid-leak/covid-wordpress.jpg)
 
