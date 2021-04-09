@@ -15,7 +15,7 @@ The leaked 10 digit codes could then be entered into the website to retrieve the
 
 What's worse is that the 10 digit registration numbers were incremented, so to access the data of another patient, an attacker could just increment the number by one. On top of that, there was no rate limiting in place. Allowing a potential attacker to cycle through all the patient data without anything trying to stop them.
 
-Once made aware of the issue Eventus Media International (EMI) fixed the security vulnerability on the same day. They now require the user's name or email address, as well as the 10 digit code. And all previous codes were changed.
+Once made aware of the issue, Eventus Media International (EMI) fixed the security vulnerability on the same day. Now they require the user's name or email address, as well as the 10 digit code. And all previous codes were changed.
 
 This is the [second time](https://zerforschung.org/posts/medicus/) the researchers have found serious security issues in covid test centre software.
 
