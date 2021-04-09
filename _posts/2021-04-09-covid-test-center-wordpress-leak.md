@@ -21,6 +21,8 @@ This is the [second time](https://zerforschung.org/posts/medicus/) the researche
 
 The vulnerability in this instance was not due to WordPress itself, but instead, a custom REST API endpoint. The vulnerabilities were business logic issues, [Insecure Direct Object Reference (IDOR)](https://portswigger.net/web-security/access-control/idor) and the lack of rate-limiting.
 
-It is very unlikely that a [WordPress security plugin](https://wordpress.org/plugins/wpscan/) would have prevented the attack. Keeping your WordPress websites and their plugins up to date certainly helps, but would not have prevented the attack either. In this case, the only way the attack could have been prevented was better security within the design phase of the software development and subsequent penetration testing.
+WPScan Founder & CEO, Ryan Dewhurst, notes:
 
-If you need WordPress penetration testing services, [get in touch](https://wpscan.com/contact), as this is a service WPScan offers.
+> It is very unlikely that a [WordPress security plugin](https://wordpress.org/plugins/wpscan/) would have prevented the attack. Keeping your WordPress websites and their plugins up to date certainly helps, but would not have prevented the attack either. In this case, the only way the attack could have been prevented was better security within the design phase of the software development and subsequent penetration testing.
+
+If you need WordPress penetration testing services, [get in touch](https://wpscan.com/contact). We have a dedicated team of WordPress security professionals each with 10+ years of security testing experience.
