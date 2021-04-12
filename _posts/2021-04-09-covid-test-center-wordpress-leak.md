@@ -13,7 +13,7 @@ Calling the `/wp-json/wp/v2/registration/` API endpoint would return data in JSO
 
 The leaked 10 digit codes could then be entered into the website to retrieve the patient's covid test results, which also included a lot of other personal information, such as the patient's name, address, date of birth, phone number and more.
 
-What's worse is that the 10 digit registration numbers were incremented, so to access the data of another patient, an attacker could just increment the number by one. On top of that, there was no rate limiting in place. Allowing a potential attacker to cycle through all the patient data without anything trying to stop them.
+On top of that, there was no rate limiting in place. Allowing a potential attacker to cycle through all the patient data without anything trying to stop them.
 
 Once made aware of the issue, Eventus Media International (EMI) fixed the security vulnerability on the same day. Now they require the user's name or email address, as well as the 10 digit code. And all previous codes were changed.
 
