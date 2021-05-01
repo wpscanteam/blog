@@ -1,0 +1,14 @@
+#!/bin/bash
+
+set -euf -o pipefail
+
+if [[ ! -f "$PWD/Gemfile" ]]
+then
+  echo "Please execute this script from the git root"
+  exit 1
+fi
+
+rm -f "$PWD/Gemfile.lock"
+docker pull ruby:alpine
+docker run --rm -v "$PWD":/usr/src/app -w /usr/src/app ruby:alpine /bin/sh -c "gem install bundler; bundle config force_ruby_platform true; bundle lock --update"
+
