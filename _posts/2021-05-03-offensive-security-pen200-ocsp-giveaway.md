@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Offensive Security PEN-200 OCSP Course Giveaway"
+title: "Offensive Security PEN-200 OSCP Course Giveaway"
 ---
 
 It all started on June 16th 2011 with a blog post:
