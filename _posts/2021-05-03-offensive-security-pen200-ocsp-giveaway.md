@@ -15,6 +15,8 @@ To be in with a chance to win the best hands on security certification available
 
 We will be picking a winner at random on our birthday, June 16th, from any security researcher that submitted a valid vulnerability to us this year (2021) up until our birthday.
 
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/384631124" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 Best of luck to you and thank you for your support over the years!
 
 View the full WPScan origin blog post archived on the WayBack machine [https://web.archive.org/web/20110712001315/http://www.ethicalhack3r.co.uk/security/introducing-wpscan-wordpress-security-scanner](https://web.archive.org/web/20110712001315/http://www.ethicalhack3r.co.uk/security/introducing-wpscan-wordpress-security-scanner)
